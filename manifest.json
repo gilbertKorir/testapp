@@ -1,0 +1,22 @@
+{
+  "short_name": "TestApp",
+  "name": "My App",
+  "icons": [
+    {
+      "src": "~/Content/Images/lg1.png",
+
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "~/Content/Images/lg2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+
